@@ -172,8 +172,8 @@ export default function Home(){
    return (
       <div>
         <Head>
-          <title>Krypto Koin</title>
-          <meta name="description" content="Whitelist-Dapp" />
+          <title>Red Staking</title>
+          <meta name="description" content="staking-dapp" />
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <div className={styles.main}>
@@ -198,7 +198,7 @@ export default function Home(){
           </div>
         </div>
         <footer className={styles.footer}>
-          Made with &#10084; by Krypto Koins
+          Made with &#10084; by RED
         </footer>
       </div>
     );
