@@ -193,6 +193,9 @@ export default function Home(){
             </div>
             {renderButton()}
           </div>
+          <div>
+            <img className={styles.image} src="./krypto.svg" />
+          </div>
         </div>
         <footer className={styles.footer}>
           Made with &#10084; by Krypto Koins
